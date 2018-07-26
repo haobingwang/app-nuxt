@@ -1,6 +1,6 @@
 # app-nuxt
 
-> nuxt 演示项目
+> nuxt 演示项目，Node.js 版本为 8，即 lts/carbon
 
 ## Build Setup
 
